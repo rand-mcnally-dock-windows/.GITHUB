@@ -17,7 +17,8 @@ Run the `.exe` file to start the installation.
 ## 📸 Overview
 A quick look at key parts in action:
 
-![rand-mcnally-dock-dashboard](https://github.com/user-attachments/assets/f9246c17-6d4a-49f9-88ea-0a624cd346b0)
+![rand-mcnally-dock-dashboard](https://github.com/user-attachments/assets/3fb19330-42c5-4e5f-a2e6-bb90af1b97f4)
+
 
 ---
 
